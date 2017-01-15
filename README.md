@@ -2,7 +2,13 @@
 
 *Glad to be on the right side of towel history*
 
-This is the second complete website that I ever created (first was part of chebucto.ns.ca, and is likely irretrievable).  Left in mint, antiquated condition (all the way back to my 2010 web design class).  
+This is the second complete website that I ever created (first was part of chebucto.ns.ca, and is likely irretrievable).  Left in mint*, antiquated condition (all the way back to my 2010 web design class).
+
+* _changed some image links to https_
+
+**It still works!**
+
+![screenshot](http://i.imgur.com/kZMz3Be.jpg)
 
 ## Some Notes
 
