@@ -8,6 +8,8 @@ This is the second complete website that I ever created (first was part of chebu
 
 **It still works!**
 
+See it [live](https://bozdoz.github.io/towel-history/)!
+
 ![screenshot](http://i.imgur.com/kZMz3Be.jpg)
 
 ## Some Notes
